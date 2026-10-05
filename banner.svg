@@ -44,12 +44,12 @@
 <text x="450" y="23" font-size="13" text-anchor="middle" class="dim">n0x@lab: ~</text>
 # логотип и подзаголовок
 <text x="40" y="112" font-size="64" font-weight="700" class="g" filter="url(#glow)">n0xlab</text>
-<text x="42" y="142" font-size="15" class="dim">ML · data · learning in public</text>
+<text x="42" y="142" font-size="15" class="dim">code · lessons · learning in public</text>
 # строки терминала: команды печатаются, ответы появляются
 <g class="term">
   <text x="40" y="188" textLength="183.6" lengthAdjust="spacing"><tspan class="g">n0x@lab</tspan><tspan class="b">:~$</tspan><tspan class="w"> whoami</tspan></text>
   <rect class="cover t1" x="39" y="168" width="187.6" height="28"/>
-  <text class="dim show2" x="40" y="216" textLength="507.6" lengthAdjust="spacing">full-stack dev → ML engineer · Yerevan, Armenia</text>
+  <text class="dim show2" x="40" y="216" textLength="32.4" lengthAdjust="spacing">n0x</text>
   <text x="40" y="248" textLength="280.8" lengthAdjust="spacing"><tspan class="g">n0x@lab</tspan><tspan class="b">:~$</tspan><tspan class="w"> cat mission.txt</tspan></text>
   <rect class="cover t3" x="39" y="228" width="284.8" height="28"/>
   <text class="g show4" x="40" y="276" textLength="442.8" lengthAdjust="spacing">I don&#39;t just write code. I write lessons.</text>
